@@ -1,8 +1,6 @@
 Kagura - an Image Serve PHP Class
 =======================================
-Author: Wisnu Hafid <www.wisnu-hafid.net>
-
-6 May 2013
+Author: Wisnu Hafid (www.wisnu-hafid.net) on 6 May 2013
 
 Change Log:
 
